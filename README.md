@@ -6,14 +6,6 @@
 </div>
 
 
-
----
-
-### Stats
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HydroScripts&layout=compact&theme=vision-friendly-dark)
-
-
 ---
 
 ### Support Discord
